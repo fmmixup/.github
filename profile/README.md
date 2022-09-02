@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/fmmixup">
     <!-- Please provide path to your logo here -->
-    <img src="https://assets.mixup.fm/img/logo.png" alt="Logo" width="100" height="100">
+    <img src="https://mixup.fm/_nuxt/img/newlogo.fa6b9d5.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
@@ -21,14 +21,14 @@
    </a>
   </td>
   <td>
-   <a href="https://discord.mixup.fm,">
+   <a href="https://mixup.link/discord,">
     <img src="https://img.shields.io/discord/749996411419885598?label=discord" alt="Join our Discord Server">
    </a>
   </td>
  </tr>
  <tr>
   <td>
-   <a href="https:/twitter.com/mixup_fm">
+   <a href="https:/twitter.com/wearemixup">
     <img src="https://img.shields.io/twitter/follow/mixup_fm" alt="Follow MixUp on Twitter">
    </a>
   </td>
