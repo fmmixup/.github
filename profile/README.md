@@ -29,7 +29,7 @@
  <tr>
   <td>
    <a href="https://twitter.com/wearemixup">
-    <img src="https://img.shields.io/twitter/follow/mixup_fm" alt="Follow MixUp on Twitter">
+    <img src="https://img.shields.io/twitter/follow/wearemixup" alt="Follow MixUp on Twitter">
    </a>
   </td>
   <td>
